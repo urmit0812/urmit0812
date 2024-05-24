@@ -1,8 +1,8 @@
 
 # 💫 About Me:
 - 👋 Hi, I’m @urmit0812
-- URMIT VITTHALBHAU PATEL
-- FRONTEND WEB DEVELOPER
+- URMIT VITTHALBHAI PATEL
+- <h1>FRONTEND WEB DEVELOPER</h1>
 - <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning
 
 
